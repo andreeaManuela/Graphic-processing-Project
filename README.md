@@ -1,0 +1,1 @@
+The project creates a photorealistic presentation of 3D object scenes using the libraries: OpenGL, GLFW, GLM and Blender. The user will be able to interact with the scene using the mouse for navigation and the keyboard.
